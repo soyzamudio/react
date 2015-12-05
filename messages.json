@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "0": {
+      "message": "Hi there, how are you",
+      "date": "Wed, 08 Jul 2015 18:14:27 GMT",
+      "author": "Hendrik Swanepoel",
+      "profilePic": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/0b4/2c4/3e7a565.jpg"
+    },
+    "1": {
+      "message": "I am fine, and you?",
+      "date": "Wed, 08 Jul 2015 18:14:32 GMT",
+      "author": "Stewart Scott",
+      "profilePic": "https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xpl1/v/t1.0-9/12065683_10208421713806623_8837359963097050990_n.jpg"
+    }
+  }
+}
